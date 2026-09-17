@@ -1,0 +1,1 @@
+import Link from "next/link"; export default function NotFound() { return <div className="empty"><span className="eyebrow">VELLOURA</span><h1>404</h1><h2>THIS PIECE COULDN'T BE FOUND.</h2><Link className="btn dark" href="/">Return to VELLOURA</Link></div> }

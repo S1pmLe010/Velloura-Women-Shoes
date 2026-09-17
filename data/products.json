@@ -1,0 +1,4082 @@
+[
+  {
+    "id": 1,
+    "name": "Sculpted Flat 01",
+    "brand": "Dior",
+    "category": "Flats",
+    "price": 830,
+    "currency": "USD",
+    "description": "A refined flats silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Silver",
+    "material": "Mesh",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "silver",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Signature Ankle Boot 02",
+    "brand": "Prada",
+    "category": "Ankle Boots",
+    "price": 960,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Nude",
+    "material": "Patent leather",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "nude",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Atelier Evening Shoe 03",
+    "brand": "Gucci",
+    "category": "Evening Shoes",
+    "price": 1100,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Satin",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "ivory",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lumière Pump 04",
+    "brand": "Valentino",
+    "category": "Pumps",
+    "price": 1240,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Gold",
+    "material": "Silk",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "gold",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Linea Loafer 05",
+    "brand": "Jimmy Choo",
+    "category": "Loafers",
+    "price": 1380,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Velvet",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "pearl",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Élan Sneaker 06",
+    "brand": "Christian Louboutin",
+    "category": "Sneakers",
+    "price": 1510,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Champagne",
+    "material": "Suede",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "champagne",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Celeste Bridal Shoe 07",
+    "brand": "Saint Laurent",
+    "category": "Bridal Shoes",
+    "price": 1650,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Blush",
+    "material": "Leather",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "blush",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Noir Sandal 08",
+    "brand": "Chanel",
+    "category": "Sandals",
+    "price": 1790,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Espresso",
+    "material": "Mesh",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "espresso",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Aurelia Boot 09",
+    "brand": "Balenciaga",
+    "category": "Boots",
+    "price": 1920,
+    "currency": "USD",
+    "description": "A refined boots silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Patent leather",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "burgundy",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Serenade Mule 10",
+    "brand": "Versace",
+    "category": "Mules",
+    "price": 2060,
+    "currency": "USD",
+    "description": "A refined mules silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Black",
+    "material": "Satin",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "black",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Sculpt Heel 11",
+    "brand": "Manolo Blahnik",
+    "category": "Heels",
+    "price": 2200,
+    "currency": "USD",
+    "description": "A refined heels silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Silver",
+    "material": "Silk",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "silver",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Couture Flat 12",
+    "brand": "Ferragamo",
+    "category": "Flats",
+    "price": 2330,
+    "currency": "USD",
+    "description": "A refined flats silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Nude",
+    "material": "Velvet",
+    "featured": true,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "nude",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Gala Ankle Boot 13",
+    "brand": "Bottega Veneta",
+    "category": "Ankle Boots",
+    "price": 2470,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": false,
+    "rating": 4.5,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "ivory",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Étoile Evening Shoe 14",
+    "brand": "Dolce & Gabbana",
+    "category": "Evening Shoes",
+    "price": 2610,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Gold",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "gold",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Maison Pump 15",
+    "brand": "Givenchy",
+    "category": "Pumps",
+    "price": 2740,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "pearl",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Muse Loafer 16",
+    "brand": "Burberry",
+    "category": "Loafers",
+    "price": 2880,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Champagne",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "champagne",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Arc Sneaker 17",
+    "brand": "Alexander McQueen",
+    "category": "Sneakers",
+    "price": 820,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Blush",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "blush",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Velour Bridal Shoe 18",
+    "brand": "Miu Miu",
+    "category": "Bridal Shoes",
+    "price": 960,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Espresso",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "espresso",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Soirée Sandal 19",
+    "brand": "Fendi",
+    "category": "Sandals",
+    "price": 1090,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "burgundy",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Icon Boot 20",
+    "brand": "Loewe",
+    "category": "Boots",
+    "price": 1230,
+    "currency": "USD",
+    "description": "A refined boots silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Black",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "black",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Sculpted Mule 21",
+    "brand": "Dior",
+    "category": "Mules",
+    "price": 1370,
+    "currency": "USD",
+    "description": "A refined mules silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Silver",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "silver",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Signature Heel 22",
+    "brand": "Prada",
+    "category": "Heels",
+    "price": 1500,
+    "currency": "USD",
+    "description": "A refined heels silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Nude",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "nude",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Atelier Flat 23",
+    "brand": "Gucci",
+    "category": "Flats",
+    "price": 1640,
+    "currency": "USD",
+    "description": "A refined flats silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "ivory",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Lumière Ankle Boot 24",
+    "brand": "Valentino",
+    "category": "Ankle Boots",
+    "price": 1780,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Gold",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "gold",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Linea Evening Shoe 25",
+    "brand": "Jimmy Choo",
+    "category": "Evening Shoes",
+    "price": 1920,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "pearl",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Élan Pump 26",
+    "brand": "Christian Louboutin",
+    "category": "Pumps",
+    "price": 2050,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Champagne",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": false,
+    "rating": 4.6,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "champagne",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Celeste Loafer 27",
+    "brand": "Saint Laurent",
+    "category": "Loafers",
+    "price": 2190,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Blush",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "blush",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Noir Sneaker 28",
+    "brand": "Chanel",
+    "category": "Sneakers",
+    "price": 2330,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Espresso",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "espresso",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Aurelia Bridal Shoe 29",
+    "brand": "Balenciaga",
+    "category": "Bridal Shoes",
+    "price": 2460,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "burgundy",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Serenade Sandal 30",
+    "brand": "Versace",
+    "category": "Sandals",
+    "price": 2600,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Black",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "black",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Sculpt Boot 31",
+    "brand": "Manolo Blahnik",
+    "category": "Boots",
+    "price": 2740,
+    "currency": "USD",
+    "description": "A refined boots silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Silver",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "silver",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Couture Mule 32",
+    "brand": "Ferragamo",
+    "category": "Mules",
+    "price": 2870,
+    "currency": "USD",
+    "description": "A refined mules silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Nude",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "nude",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Gala Heel 33",
+    "brand": "Bottega Veneta",
+    "category": "Heels",
+    "price": 810,
+    "currency": "USD",
+    "description": "A refined heels silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "ivory",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Étoile Flat 34",
+    "brand": "Dolce & Gabbana",
+    "category": "Flats",
+    "price": 950,
+    "currency": "USD",
+    "description": "A refined flats silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Gold",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "gold",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Maison Ankle Boot 35",
+    "brand": "Givenchy",
+    "category": "Ankle Boots",
+    "price": 1080,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "pearl",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Muse Evening Shoe 36",
+    "brand": "Burberry",
+    "category": "Evening Shoes",
+    "price": 1220,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Champagne",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "champagne",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Arc Pump 37",
+    "brand": "Alexander McQueen",
+    "category": "Pumps",
+    "price": 1360,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Blush",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "blush",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Velour Loafer 38",
+    "brand": "Miu Miu",
+    "category": "Loafers",
+    "price": 1500,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Espresso",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "espresso",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Soirée Sneaker 39",
+    "brand": "Fendi",
+    "category": "Sneakers",
+    "price": 1630,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": false,
+    "rating": 4.7,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "burgundy",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Icon Bridal Shoe 40",
+    "brand": "Loewe",
+    "category": "Bridal Shoes",
+    "price": 1770,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Black",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "black",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Sculpted Sandal 41",
+    "brand": "Dior",
+    "category": "Sandals",
+    "price": 1910,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Silver",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "silver",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Signature Boot 42",
+    "brand": "Prada",
+    "category": "Boots",
+    "price": 2040,
+    "currency": "USD",
+    "description": "A refined boots silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Nude",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "nude",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Atelier Mule 43",
+    "brand": "Gucci",
+    "category": "Mules",
+    "price": 2180,
+    "currency": "USD",
+    "description": "A refined mules silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "ivory",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Lumière Heel 44",
+    "brand": "Valentino",
+    "category": "Heels",
+    "price": 2320,
+    "currency": "USD",
+    "description": "A refined heels silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Gold",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "gold",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Linea Flat 45",
+    "brand": "Jimmy Choo",
+    "category": "Flats",
+    "price": 2460,
+    "currency": "USD",
+    "description": "A refined flats silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "pearl",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Élan Ankle Boot 46",
+    "brand": "Christian Louboutin",
+    "category": "Ankle Boots",
+    "price": 2590,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Champagne",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "champagne",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Celeste Evening Shoe 47",
+    "brand": "Saint Laurent",
+    "category": "Evening Shoes",
+    "price": 2730,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Blush",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "blush",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Noir Pump 48",
+    "brand": "Chanel",
+    "category": "Pumps",
+    "price": 2870,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Espresso",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "espresso",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Aurelia Loafer 49",
+    "brand": "Balenciaga",
+    "category": "Loafers",
+    "price": 800,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "burgundy",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Serenade Sneaker 50",
+    "brand": "Versace",
+    "category": "Sneakers",
+    "price": 940,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Black",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "black",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Sculpt Bridal Shoe 51",
+    "brand": "Manolo Blahnik",
+    "category": "Bridal Shoes",
+    "price": 1080,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Silver",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "silver",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Couture Sandal 52",
+    "brand": "Ferragamo",
+    "category": "Sandals",
+    "price": 1210,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Nude",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": false,
+    "rating": 4.8,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "nude",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Gala Boot 53",
+    "brand": "Bottega Veneta",
+    "category": "Boots",
+    "price": 1350,
+    "currency": "USD",
+    "description": "A refined boots silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "ivory",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Étoile Mule 54",
+    "brand": "Dolce & Gabbana",
+    "category": "Mules",
+    "price": 1490,
+    "currency": "USD",
+    "description": "A refined mules silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Gold",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "gold",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Maison Heel 55",
+    "brand": "Givenchy",
+    "category": "Heels",
+    "price": 1620,
+    "currency": "USD",
+    "description": "A refined heels silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "pearl",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Muse Flat 56",
+    "brand": "Burberry",
+    "category": "Flats",
+    "price": 1760,
+    "currency": "USD",
+    "description": "A refined flats silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Champagne",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "champagne",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Arc Ankle Boot 57",
+    "brand": "Alexander McQueen",
+    "category": "Ankle Boots",
+    "price": 1900,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Blush",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "blush",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Velour Evening Shoe 58",
+    "brand": "Miu Miu",
+    "category": "Evening Shoes",
+    "price": 2040,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Espresso",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "espresso",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Soirée Pump 59",
+    "brand": "Fendi",
+    "category": "Pumps",
+    "price": 2170,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "burgundy",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Icon Loafer 60",
+    "brand": "Loewe",
+    "category": "Loafers",
+    "price": 2310,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Black",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "black",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Sculpted Sneaker 61",
+    "brand": "Dior",
+    "category": "Sneakers",
+    "price": 2450,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Silver",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "silver",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Signature Bridal Shoe 62",
+    "brand": "Prada",
+    "category": "Bridal Shoes",
+    "price": 2580,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Nude",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "nude",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Atelier Sandal 63",
+    "brand": "Gucci",
+    "category": "Sandals",
+    "price": 2720,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "ivory",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Lumière Boot 64",
+    "brand": "Valentino",
+    "category": "Boots",
+    "price": 2860,
+    "currency": "USD",
+    "description": "A refined boots silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Gold",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "gold",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Linea Mule 65",
+    "brand": "Jimmy Choo",
+    "category": "Mules",
+    "price": 800,
+    "currency": "USD",
+    "description": "A refined mules silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": false,
+    "rating": 4.9,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "pearl",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Élan Heel 66",
+    "brand": "Christian Louboutin",
+    "category": "Heels",
+    "price": 930,
+    "currency": "USD",
+    "description": "A refined heels silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Champagne",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "champagne",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Celeste Flat 67",
+    "brand": "Saint Laurent",
+    "category": "Flats",
+    "price": 1070,
+    "currency": "USD",
+    "description": "A refined flats silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Blush",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "blush",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Noir Ankle Boot 68",
+    "brand": "Chanel",
+    "category": "Ankle Boots",
+    "price": 1210,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Espresso",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "espresso",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Aurelia Evening Shoe 69",
+    "brand": "Balenciaga",
+    "category": "Evening Shoes",
+    "price": 1340,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "burgundy",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Serenade Pump 70",
+    "brand": "Versace",
+    "category": "Pumps",
+    "price": 1480,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Black",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "black",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Sculpt Loafer 71",
+    "brand": "Manolo Blahnik",
+    "category": "Loafers",
+    "price": 1620,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Silver",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "silver",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Couture Sneaker 72",
+    "brand": "Ferragamo",
+    "category": "Sneakers",
+    "price": 1750,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Nude",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "nude",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Gala Bridal Shoe 73",
+    "brand": "Bottega Veneta",
+    "category": "Bridal Shoes",
+    "price": 1890,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "ivory",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Étoile Sandal 74",
+    "brand": "Dolce & Gabbana",
+    "category": "Sandals",
+    "price": 2030,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Gold",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "gold",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Maison Boot 75",
+    "brand": "Givenchy",
+    "category": "Boots",
+    "price": 2160,
+    "currency": "USD",
+    "description": "A refined boots silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "pearl",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Muse Mule 76",
+    "brand": "Burberry",
+    "category": "Mules",
+    "price": 2300,
+    "currency": "USD",
+    "description": "A refined mules silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Champagne",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "champagne",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Arc Heel 77",
+    "brand": "Alexander McQueen",
+    "category": "Heels",
+    "price": 2440,
+    "currency": "USD",
+    "description": "A refined heels silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Blush",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "blush",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Velour Flat 78",
+    "brand": "Miu Miu",
+    "category": "Flats",
+    "price": 2580,
+    "currency": "USD",
+    "description": "A refined flats silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Espresso",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": false,
+    "rating": 4.4,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "espresso",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Soirée Ankle Boot 79",
+    "brand": "Fendi",
+    "category": "Ankle Boots",
+    "price": 2710,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "burgundy",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Icon Evening Shoe 80",
+    "brand": "Loewe",
+    "category": "Evening Shoes",
+    "price": 2850,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Black",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "black",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Sculpted Pump 81",
+    "brand": "Dior",
+    "category": "Pumps",
+    "price": 790,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Silver",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "silver",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Signature Loafer 82",
+    "brand": "Prada",
+    "category": "Loafers",
+    "price": 920,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Nude",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "nude",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Atelier Sneaker 83",
+    "brand": "Gucci",
+    "category": "Sneakers",
+    "price": 1060,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "ivory",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Lumière Bridal Shoe 84",
+    "brand": "Valentino",
+    "category": "Bridal Shoes",
+    "price": 1200,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Gold",
+    "material": "Leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "gold",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Linea Sandal 85",
+    "brand": "Jimmy Choo",
+    "category": "Sandals",
+    "price": 1340,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Mesh",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "pearl",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Élan Boot 86",
+    "brand": "Christian Louboutin",
+    "category": "Boots",
+    "price": 1470,
+    "currency": "USD",
+    "description": "A refined boots silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Champagne",
+    "material": "Patent leather",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "champagne",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Celeste Mule 87",
+    "brand": "Saint Laurent",
+    "category": "Mules",
+    "price": 1610,
+    "currency": "USD",
+    "description": "A refined mules silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Blush",
+    "material": "Satin",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "blush",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Noir Heel 88",
+    "brand": "Chanel",
+    "category": "Heels",
+    "price": 1750,
+    "currency": "USD",
+    "description": "A refined heels silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Espresso",
+    "material": "Silk",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "espresso",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Aurelia Flat 89",
+    "brand": "Balenciaga",
+    "category": "Flats",
+    "price": 1880,
+    "currency": "USD",
+    "description": "A refined flats silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Velvet",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "burgundy",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Serenade Ankle Boot 90",
+    "brand": "Versace",
+    "category": "Ankle Boots",
+    "price": 2020,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Black",
+    "material": "Suede",
+    "featured": false,
+    "new": false,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "black",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Sculpt Evening Shoe 91",
+    "brand": "Manolo Blahnik",
+    "category": "Evening Shoes",
+    "price": 2160,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Silver",
+    "material": "Leather",
+    "featured": false,
+    "new": true,
+    "inStock": false,
+    "rating": 4.5,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "silver",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Couture Pump 92",
+    "brand": "Ferragamo",
+    "category": "Pumps",
+    "price": 2290,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Nude",
+    "material": "Mesh",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "nude",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Gala Loafer 93",
+    "brand": "Bottega Veneta",
+    "category": "Loafers",
+    "price": 2430,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Patent leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "ivory",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Étoile Sneaker 94",
+    "brand": "Dolce & Gabbana",
+    "category": "Sneakers",
+    "price": 2570,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Gold",
+    "material": "Satin",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "gold",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Maison Bridal Shoe 95",
+    "brand": "Givenchy",
+    "category": "Bridal Shoes",
+    "price": 2700,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Silk",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "pearl",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Muse Sandal 96",
+    "brand": "Burberry",
+    "category": "Sandals",
+    "price": 2840,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Champagne",
+    "material": "Velvet",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "champagne",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Arc Boot 97",
+    "brand": "Alexander McQueen",
+    "category": "Boots",
+    "price": 780,
+    "currency": "USD",
+    "description": "A refined boots silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Blush",
+    "material": "Suede",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "blush",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Velour Mule 98",
+    "brand": "Miu Miu",
+    "category": "Mules",
+    "price": 920,
+    "currency": "USD",
+    "description": "A refined mules silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Espresso",
+    "material": "Leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "espresso",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Soirée Heel 99",
+    "brand": "Fendi",
+    "category": "Heels",
+    "price": 1050,
+    "currency": "USD",
+    "description": "A refined heels silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Mesh",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "burgundy",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Icon Flat 100",
+    "brand": "Loewe",
+    "category": "Flats",
+    "price": 1190,
+    "currency": "USD",
+    "description": "A refined flats silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Black",
+    "material": "Patent leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "black",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Sculpted Ankle Boot 101",
+    "brand": "Dior",
+    "category": "Ankle Boots",
+    "price": 1330,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Silver",
+    "material": "Satin",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "silver",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Signature Evening Shoe 102",
+    "brand": "Prada",
+    "category": "Evening Shoes",
+    "price": 1460,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Nude",
+    "material": "Silk",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "nude",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Atelier Pump 103",
+    "brand": "Gucci",
+    "category": "Pumps",
+    "price": 1600,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Velvet",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "ivory",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Lumière Loafer 104",
+    "brand": "Valentino",
+    "category": "Loafers",
+    "price": 1740,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Gold",
+    "material": "Suede",
+    "featured": false,
+    "new": true,
+    "inStock": false,
+    "rating": 4.6,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "gold",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Linea Sneaker 105",
+    "brand": "Jimmy Choo",
+    "category": "Sneakers",
+    "price": 1880,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "pearl",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Élan Bridal Shoe 106",
+    "brand": "Christian Louboutin",
+    "category": "Bridal Shoes",
+    "price": 2010,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Champagne",
+    "material": "Mesh",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "champagne",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Celeste Sandal 107",
+    "brand": "Saint Laurent",
+    "category": "Sandals",
+    "price": 2150,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Blush",
+    "material": "Patent leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "blush",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Noir Boot 108",
+    "brand": "Chanel",
+    "category": "Boots",
+    "price": 2290,
+    "currency": "USD",
+    "description": "A refined boots silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Espresso",
+    "material": "Satin",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "espresso",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Aurelia Mule 109",
+    "brand": "Balenciaga",
+    "category": "Mules",
+    "price": 2420,
+    "currency": "USD",
+    "description": "A refined mules silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Silk",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "burgundy",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Serenade Heel 110",
+    "brand": "Versace",
+    "category": "Heels",
+    "price": 2560,
+    "currency": "USD",
+    "description": "A refined heels silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Black",
+    "material": "Velvet",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "heels",
+      "luxury",
+      "designer",
+      "black",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Sculpt Flat 111",
+    "brand": "Manolo Blahnik",
+    "category": "Flats",
+    "price": 2700,
+    "currency": "USD",
+    "description": "A refined flats silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Silver",
+    "material": "Suede",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.7,
+    "tags": [
+      "flats",
+      "luxury",
+      "designer",
+      "silver",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Couture Ankle Boot 112",
+    "brand": "Ferragamo",
+    "category": "Ankle Boots",
+    "price": 2830,
+    "currency": "USD",
+    "description": "A refined ankle boots silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Nude",
+    "material": "Leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "ankle-boots",
+      "luxury",
+      "designer",
+      "nude",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Gala Evening Shoe 113",
+    "brand": "Bottega Veneta",
+    "category": "Evening Shoes",
+    "price": 770,
+    "currency": "USD",
+    "description": "A refined evening shoes silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Ivory",
+    "material": "Mesh",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "evening-shoes",
+      "luxury",
+      "designer",
+      "ivory",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Étoile Pump 114",
+    "brand": "Dolce & Gabbana",
+    "category": "Pumps",
+    "price": 910,
+    "currency": "USD",
+    "description": "A refined pumps silhouette in patent leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Gold",
+    "material": "Patent leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "pumps",
+      "luxury",
+      "designer",
+      "gold",
+      "patent-leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Maison Loafer 115",
+    "brand": "Givenchy",
+    "category": "Loafers",
+    "price": 1040,
+    "currency": "USD",
+    "description": "A refined loafers silhouette in satin, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Pearl",
+    "material": "Satin",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.5,
+    "tags": [
+      "loafers",
+      "luxury",
+      "designer",
+      "pearl",
+      "satin"
+    ],
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Muse Sneaker 116",
+    "brand": "Burberry",
+    "category": "Sneakers",
+    "price": 1180,
+    "currency": "USD",
+    "description": "A refined sneakers silhouette in silk, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Champagne",
+    "material": "Silk",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.6,
+    "tags": [
+      "sneakers",
+      "luxury",
+      "designer",
+      "champagne",
+      "silk"
+    ],
+    "image": "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Arc Bridal Shoe 117",
+    "brand": "Alexander McQueen",
+    "category": "Bridal Shoes",
+    "price": 1320,
+    "currency": "USD",
+    "description": "A refined bridal shoes silhouette in velvet, composed for modern evening elegance.",
+    "sizes": [
+      36,
+      37,
+      38,
+      40,
+      41,
+      42
+    ],
+    "color": "Blush",
+    "material": "Velvet",
+    "featured": false,
+    "new": true,
+    "inStock": false,
+    "rating": 4.7,
+    "tags": [
+      "bridal-shoes",
+      "luxury",
+      "designer",
+      "blush",
+      "velvet"
+    ],
+    "image": "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1560343090-f0409e92791a?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Velour Sandal 118",
+    "brand": "Miu Miu",
+    "category": "Sandals",
+    "price": 1460,
+    "currency": "USD",
+    "description": "A refined sandals silhouette in suede, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      37,
+      39,
+      40,
+      41
+    ],
+    "color": "Espresso",
+    "material": "Suede",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.8,
+    "tags": [
+      "sandals",
+      "luxury",
+      "designer",
+      "espresso",
+      "suede"
+    ],
+    "image": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Soirée Boot 119",
+    "brand": "Fendi",
+    "category": "Boots",
+    "price": 1590,
+    "currency": "USD",
+    "description": "A refined boots silhouette in leather, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      36,
+      38,
+      39,
+      40,
+      42
+    ],
+    "color": "Burgundy",
+    "material": "Leather",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.9,
+    "tags": [
+      "boots",
+      "luxury",
+      "designer",
+      "burgundy",
+      "leather"
+    ],
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Icon Mule 120",
+    "brand": "Loewe",
+    "category": "Mules",
+    "price": 1730,
+    "currency": "USD",
+    "description": "A refined mules silhouette in mesh, composed for modern evening elegance.",
+    "sizes": [
+      35,
+      37,
+      38,
+      39,
+      41,
+      42
+    ],
+    "color": "Black",
+    "material": "Mesh",
+    "featured": false,
+    "new": true,
+    "inStock": true,
+    "rating": 4.4,
+    "tags": [
+      "mules",
+      "luxury",
+      "designer",
+      "black",
+      "mesh"
+    ],
+    "image": "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0",
+    "images": [
+      "https://images.unsplash.com/photo-1515347619252-60a4bf4fff4f?auto=format&fit=crop&w=900&q=85&ixlib=rb-4.1.0"
+    ]
+  }
+]
